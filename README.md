@@ -28,4 +28,4 @@ npm run build --report
 
 ## 学习记录
 
-此项目用于学习 Git 操作：clone、remote、commit、push。
+此项目用于学习 Git 操作：clone、remote、commit、push.
