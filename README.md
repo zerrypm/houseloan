@@ -1,31 +1,12 @@
 # houseloan 房贷计算器
 
-> house loan caculator on mobile
->
->vue vux实现 房贷计算器手机版
->实现商贷、公积金贷、混合贷、税费计算
->
+>名称：房贷计算器H5
+>功能：商贷、公积金贷、混合贷、税费计算
 
-## example url 示例：
-
-<https://guoanfamily.github.io/houseloan/example/>
-
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
 
 ## 学习记录
 
-此项目用于学习 Git 操作：clone、remote、commit、push...
+Day1：掌握Git的操作
+1，fork到自己的仓库
+2，下载到本地，打通本地至线上仓库的连接
+3，能正常push
